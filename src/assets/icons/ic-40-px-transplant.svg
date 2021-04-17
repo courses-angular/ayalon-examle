@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="38" height="38" viewBox="0 0 38 38">
+    <defs>
+        <filter id="633wlurgwa">
+            <feColorMatrix in="SourceGraphic" values="0 0 0 0 0.000000 0 0 0 0 0.168627 0 0 0 0 0.501961 0 0 0 1.000000 0"/>
+        </filter>
+    </defs>
+    <g fill="none" fill-rule="evenodd">
+        <g>
+            <g>
+                <g>
+                    <g filter="url(#633wlurgwa)" transform="translate(-169 -495) translate(139 471) translate(6) translate(24 24)">
+                        <g stroke="#979797" stroke-width=".99">
+                            <path fill-rule="nonzero" stroke-linecap="round" d="M27.56 10.153V5.552C27.56 3.02 25.946.95 23.623.95c-2.395.047-4.317 2.088-4.335 4.602v1.38M3.793 2.67c1.9 0 2.767-2.284 3.8-2.284 1.032 0 1.9 2.284 3.8 2.284" transform="translate(4.75 3.8)"/>
+                            <path fill-rule="nonzero" d="M12.66 2.756c.575.013 1.093.25 1.471.628.379.378.616.897.629 1.472h0v13.76c0 .328-.22.83-.746 1.35-.372.367-.893.753-1.542 1.083-.977.498-2.248.873-3.729.873h0-2.3c-1.459 0-2.707-.366-3.672-.85-.653-.326-1.179-.706-1.557-1.065-.563-.534-.788-1.043-.788-1.341h0V4.856c.013-.575.25-1.093.628-1.471.378-.378.897-.616 1.47-.629h0z" transform="translate(4.75 3.8)"/>
+                            <path stroke-linecap="round" d="M7.132 24.908v.09c.003 3.507 2.777 5.4 6.2 5.402 3.39 0 6.15-2.89 6.15-6.442v-7.363" transform="translate(4.75 3.8)"/>
+                            <path stroke-linecap="round" stroke-linejoin="round" d="M8.743 22.607L8.743 24.678 5.982 24.678" transform="translate(4.75 3.8)"/>
+                            <path fill-rule="nonzero" stroke-linejoin="round" d="M20.742 8.738v7.432h-2.83V8.738h2.83z" transform="translate(4.75 3.8)"/>
+                            <path fill-rule="nonzero" stroke-linecap="round" d="M27.379 15.675L27.379 19.126" transform="translate(4.75 3.8)"/>
+                            <path fill-rule="nonzero" stroke-linejoin="round" d="M28.564 11.96v3.29h-2.37v-3.29h2.37zM11.393 13.607V8.54c0-.2-.162-.362-.362-.362H4.154c-.2 0-.361.162-.361.362v5.067c0 .2.162.362.361.362h6.877c.2 0 .362-.162.362-.362z" transform="translate(4.75 3.8)"/>
+                            <path fill-rule="nonzero" stroke-linecap="round" stroke-linejoin="round" d="M5.693 10.21L9.493 10.21M5.693 11.704L7.593 11.704" transform="translate(4.75 3.8)"/>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

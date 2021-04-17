@@ -1,0 +1,10 @@
+<div class="container">
+  <h1>Lorem ipsum dolor sit amet.</h1>
+  <div class="claims_container">
+    <div class="claim" *ngFor="let claim of state.children">
+    <img src="./assets/icons/{{claim.iconImg}}" alt="">
+    <a  routerLink="{{claim.aHref}}" [state]="claim">{{claim.aText}}</a>
+  </div>
+  </div>
+
+</div>
